@@ -1,0 +1,8 @@
+pandas
+transformers
+datasets
+evaluate
+torchmetrics
+torchvision
+tqdm
+sentencepiece
